@@ -36,4 +36,10 @@ python test_passwords.py      # test credential extraction
 
 ## Disclaimer
 
-For authorized testing only. You're responsible for what you do with this. Don't hack people without permission.
+This is a research tool for learning about cybersecurity. Use it on your own systems or with permission only.
+
+Some functions can modify your system, so be careful. I built this to show how real attacks work, not to help people break the law.
+
+I'm not responsible if you use this for bad stuff. That's on you. Don't be an idiot - get permission before testing anything.
+
+If you don't know what you're doing, don't use this.
