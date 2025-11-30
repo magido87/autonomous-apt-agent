@@ -42,4 +42,4 @@ Some functions can modify your system, so be careful. I built this to show how r
 
 I'm not responsible if you use this for bad stuff. That's on you. Don't be an idiot - get permission before testing anything.
 
-If you don't know what you're doing, don't use this.
+If you don't know what you're doing, don't use this...
